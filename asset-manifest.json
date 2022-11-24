@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-date-overlay/static/css/main.4807b6ce.css",
+    "main.js": "/image-date-overlay/static/js/main.5a82a3f8.js",
+    "static/js/787.c0f7fd53.chunk.js": "/image-date-overlay/static/js/787.c0f7fd53.chunk.js",
+    "index.html": "/image-date-overlay/index.html",
+    "main.4807b6ce.css.map": "/image-date-overlay/static/css/main.4807b6ce.css.map",
+    "main.5a82a3f8.js.map": "/image-date-overlay/static/js/main.5a82a3f8.js.map",
+    "787.c0f7fd53.chunk.js.map": "/image-date-overlay/static/js/787.c0f7fd53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4807b6ce.css",
+    "static/js/main.5a82a3f8.js"
+  ]
+}
